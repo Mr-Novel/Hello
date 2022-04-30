@@ -1,0 +1,11 @@
+Windows PowerShell
+(C) Корпорация Майкрософт (Microsoft Corporation). Все права защищены.
+
+Установите последнюю версию PowerShell для новых функций и улучшения! https://aka.ms/PSWindows
+
+PS C:\Users\Ron Davidson> cd C:\
+PS C:\> cd C:\python
+PS C:\python> python hello.txt
+Введите имя: Roman
+Привет,   Roman
+PS C:\python>
